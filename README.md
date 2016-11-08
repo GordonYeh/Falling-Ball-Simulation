@@ -1,5 +1,7 @@
 # Falling-Ball_Simulation
 
+Coded using the SMFL libraries!
+
 One of my first programming projects. Just found it while digging through my hard drive.
 Looking at the code, I realized that I was such a mess at coding back then.
 
